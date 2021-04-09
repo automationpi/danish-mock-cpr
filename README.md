@@ -29,10 +29,11 @@ Enable typographer option to see result.
     console.log(cpr.generateCPR('','','Female')) // Gender female
 
 
- #Ouput 
-        >node app.js
-        { cpr: '0303117289' }
-        { cpr: '2112155744' }
-        { cpr: '1507967828' }
-        { cpr: '0101009143' }
-        { cpr: '0101006446' }
+  #Ouput 
+
+    >node app.js
+    { cpr: '0303117289' }
+    { cpr: '2112155744' }
+    { cpr: '1507967828' }
+    { cpr: '0101009143' }
+    { cpr: '0101006446' }
