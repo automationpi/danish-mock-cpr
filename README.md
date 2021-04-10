@@ -17,7 +17,6 @@ You may need to test with random Danish CPR numbers in your automation test scen
 
 
 
-Enable typographer option to see result.
 
 
     const cpr = require('danish-mock-cpr');
